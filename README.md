@@ -34,8 +34,5 @@ The analysis highlights important business insights such as high-performing regi
 
 ## Repository Contents
 - `Sample - Superstore.csv` – Dataset used for analysis  
-- `superstore_analysis.ipynb` – Jupyter Notebook with full analysis  
-- `superstore_analysis.html` – Exported HTML version of the notebook
-
-## Author
-Nilesh Pawar
+- `retail_analysis.ipynb` – Jupyter Notebook with full analysis  
+- `retail_analysis.html` – Exported HTML version of the notebook
